@@ -8,7 +8,7 @@
 ![javascript][JAVASCRIPT__BADGE]
 
 <p align="center">
-    <img src="../../../assets/Figma.png" alt="Page Layout" width="400px">
+    <a href="https://landing-page-three-beige.vercel.app/">Preview da Página</a>
 </p>
 
 <h3>Figma</h3>
