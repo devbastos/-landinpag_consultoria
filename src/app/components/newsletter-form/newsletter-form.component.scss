@@ -9,7 +9,6 @@
     padding: 40px 70px;
 
     background: $bg-secondary;
-    color: white;
 
     text-align: justify;
 
@@ -47,6 +46,9 @@
             height: 60px;
             margin-bottom: 40px;
         }
+    }
+    btn {
+        color:black;
     }
 }
 
