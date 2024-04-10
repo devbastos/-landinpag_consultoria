@@ -8,7 +8,7 @@
 ![javascript][JAVASCRIPT__BADGE]
 
 <p align="center">
-    <a href="https://landing-page-three-beige.vercel.app/">Preview da Página</a>
+    <a href="https://landing-page-three-beige.vercel.app/">visualizar a Página</a>
 </p>
 
 <h3>Figma</h3>
